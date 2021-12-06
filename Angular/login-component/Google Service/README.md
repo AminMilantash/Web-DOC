@@ -42,9 +42,9 @@ import { GoogleAuthService } from "ng-gapi";
     ├── IX                    "get name of gmail"
     ├── RM                    "https://lh3.googleusercontent.com/a/AATXAJxl"
     ├── YV                    "get familyname of gmail"
-    ├── jf                 	  "name familyname"
-    ├── jv               	  "gmail"
-	└── sW               	  "1xxxxxxx3416140528817"
+    ├── jf                    "name familyname"
+    ├── jv                    "gmail"
+    └── sW      	      "1xxxxxxx3416140528817"
 
 
     wc
@@ -53,8 +53,8 @@ import { GoogleAuthService } from "ng-gapi";
     ├── expires_in                    
     ├── first_issued_at                 	  
     ├── id_token               	  
-	├── idpId                
-	├── login_hint               	  
-	└── scope                 
+    ├── idpId                
+    ├── login_hint               	   
+    └── scope                 
 	
 ```
