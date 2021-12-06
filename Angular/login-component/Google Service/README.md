@@ -53,7 +53,8 @@ import { GoogleAuthService } from "ng-gapi";
     ├── expires_in                    
     ├── first_issued_at                 	  
     ├── id_token               	  
-	├── idpId                 "google"
+	├── idpId                
 	├── login_hint               	  
 	└── scope                 
+	
 ```
