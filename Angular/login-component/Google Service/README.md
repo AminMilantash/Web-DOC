@@ -36,7 +36,7 @@ import { GoogleAuthService } from "ng-gapi";
 ```
  
  
-# The Response of Google's service  routing is as follows :
+### The Response of Google's service  routing is as follows :
 ```
     vu
     ├── IX                    "get name of gmail"
